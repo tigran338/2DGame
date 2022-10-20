@@ -1,0 +1,93 @@
+{"frames": [
+
+{
+	"filename": "candle",
+	"frame": {"x":2,"y":2,"w":21,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":49},
+	"sourceSize": {"w":21,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "chandelier",
+	"frame": {"x":25,"y":2,"w":55,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":85},
+	"sourceSize": {"w":55,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "chest",
+	"frame": {"x":82,"y":2,"w":45,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":24},
+	"sourceSize": {"w":45,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "crate",
+	"frame": {"x":129,"y":2,"w":39,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":29},
+	"sourceSize": {"w":39,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "platform",
+	"frame": {"x":170,"y":2,"w":32,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":42},
+	"sourceSize": {"w":32,"h":42},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "table",
+	"frame": {"x":204,"y":2,"w":92,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":56},
+	"sourceSize": {"w":92,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wardrobe",
+	"frame": {"x":298,"y":2,"w":65,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":111},
+	"sourceSize": {"w":65,"h":111},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "weapons-rack-empty",
+	"frame": {"x":365,"y":2,"w":51,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":56},
+	"sourceSize": {"w":51,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "weapons-rack",
+	"frame": {"x":418,"y":2,"w":51,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":56},
+	"sourceSize": {"w":51,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-props.png",
+	"format": "RGBA8888",
+	"size": {"w":471,"h":115},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:698370306cbbc92707f31ac4bd099f95:36c4d90203b1ada1abedf1270c7c1659:7367abe05465f33555345994fbb3342e$"
+}
+}
