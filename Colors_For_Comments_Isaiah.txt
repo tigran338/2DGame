@@ -1,0 +1,19 @@
+I use the camelCase method of naming functions and variables:
+	i.e. bossTimer variable and bossMove function
+
+***********************************************************************************
+
+Below is the list of colors i use for the comments within blueprints
+
+For base explanations:
+DEA1FFFF
+
+For in-depth explanations:
+8EAAFFFF
+
+Future development/ideas comments:
+8EFFE3FF
+
+For errors/bugs that have been found:
+FFA3A3FF
+
