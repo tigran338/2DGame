@@ -1,4 +1,4 @@
-I use the camelCase method of naming functions and variables:
+I use the camelCase method of naming for functions and variables:
 	i.e. bossTimer variable and bossMove function
 
 ***********************************************************************************
