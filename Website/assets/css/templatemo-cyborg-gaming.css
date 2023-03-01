@@ -899,6 +899,7 @@ Gaming Library Style
 
 .gaming-library .item ul li {
   margin-top: 15px;
+  color:white;
 }
 
 .gaming-library .item ul li img {
@@ -906,17 +907,8 @@ Gaming Library Style
 }
 
 .gaming-library .item ul li {
-  display: inline-block;
+  display: flex;
   width: 17%;
-}
-
-.gaming-library .item ul li:first-child {
-  width: 110px;
-}
-
-.gaming-library .item ul li:last-child {
-  width: 15%;
-  text-align: right;
 }
 
 .gaming-library .item ul li h4 {
@@ -954,6 +946,16 @@ footer p a {
 
 footer p a:hover {
   color: #ec6090;
+}
+
+footer .container {
+  text-align: center;
+}
+
+footer .container ul li {
+  text-align: center;
+  width: 100px;
+  height: auto;
 }
 
 /* 
@@ -1572,7 +1574,7 @@ Profile Style
 .main-profile ul li:last-child {
   border-bottom: none;
   padding-bottom: 0;
-  margin-bottom: 0;
+  margin-bottom: flex;
 }
 
 .clips {
