@@ -1038,6 +1038,16 @@ Featured Games Style
   color: #ec6090;
 }
 
+.item ul li img{
+  padding: 40px;
+  width: 200px;
+  height: auto;
+}
+
+.item h4 {
+  align-self: center;
+}
+
 .featured-games .owl-nav {
   position: absolute;
   margin: 0 auto;
@@ -1060,6 +1070,10 @@ Featured Games Style
   color: #666;
   opacity: 1;
   transition: all .3s;
+}
+
+.col-lg-4 {
+  padding-bottom: 80px;
 }
 
 .featured-games .owl-nav .owl-prev span:hover,
